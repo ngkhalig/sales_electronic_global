@@ -1,1 +1,1 @@
-# sales_electronic_global
+# retailer_electronic_global
